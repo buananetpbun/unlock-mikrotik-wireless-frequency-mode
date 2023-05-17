@@ -7,6 +7,7 @@ and usually to open the Lock frequency this can be done by netinstall, but this 
 As usual, all you have to do is drag and drop the "routeros-open-lock.npk" file, then just restart the Mikrotik Router 🙂
 
 don't worry, the file is safe from malware and viruses, because the file was created by myself, not dirty from any site.
-Note: if there is a problem with Mikrotik, my friends, I am not responsible!
+
+Note: if there is a problem with Mikrotik, I am not responsible!
 
 ![image](https://github.com/buananetpbun/unlock-mikrotik-wireless-frequency-mode/assets/42666125/230cd5bc-e845-4232-b944-c39f9772b938)
