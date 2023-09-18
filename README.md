@@ -1,5 +1,5 @@
-# unlock-mikrotik-wireless-frequency-mode
-Unlock Mirotik Wireless Frequency Mode 
+# Unlock Mikrotik Wireless Frequency Mode
+Unlock Mikrotik Wireless Frequency Mode 
 
 Some Mikrotik distributors in each country usually follow certain requirements to set standard rules such as "wireless frequency mode", "country", "antenna gain", "dfs mode", and this standard seems to also apply in several countries.
 
